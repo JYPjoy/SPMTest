@@ -39,6 +39,7 @@ public class SPMTest: UIView {
 
     func addComponents() {
         addSubview(toastLabel)
+        print("Add Subview")
     }
 
     func setConstraints() {
